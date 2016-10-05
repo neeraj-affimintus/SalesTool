@@ -15,6 +15,7 @@ public class Main {
 	private static void mainDisplay()
 	{
 		System.out.println("mainDisplay Method of main class");
+		System.out.println("Second Line");
 	}
 
 }
